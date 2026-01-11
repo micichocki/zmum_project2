@@ -1,0 +1,7 @@
+[project]
+name = "zmum-project2"
+version = "0.1.0"
+description = "Project 2 for ZMUM at Cracow University of Technology"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = []
